@@ -1,5 +1,5 @@
 # QOSF_Task4
-a weekend foray into hybrid quantum-classical computing
+dabbling in hybrid quantum-classical computing
 
 Task4_analysis.pdf has some MATLAB snippets regarding how i found an ansatz.
 Task4_VQE.html == Task4_VQE.ipynb contain the qiskit implementation of VQE for given matrix.
